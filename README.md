@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EkaterinaTerentyeva
 - 👀 I’m interested in data analyst job or participation in some project
 - 🌱 I have completed 1-year courses Data Analyst with Yandex.Practicum
-- 📫 How to reach me whatsapp +33766837714
+- 📫 How to reach me whatsapp +33766837714, telegram https://t.me/ekaterina1313, email lomo13@yandex.ru
 
 <!---
 EkaterinaTerentyeva/EkaterinaTerentyeva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
